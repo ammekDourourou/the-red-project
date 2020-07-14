@@ -7,4 +7,4 @@ and it has no capability with any server or database
 and it can work with vpn and proxy server.
 and this program is very secure than any type of security systems or softwares
 if you liked the idea of the system then please give us a star and donate us some bitcoins if you have.
--more informations in our website here--->www.boomrednetinc.blogspot.com<---
+-more informations in our website here--->https://boomrednetinc.blogspot.com/2020/07/buying-binfireos.html<---
