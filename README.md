@@ -1,12 +1,10 @@
 # the-red-project
-this project is for everyone to join and start working by following our guides
-in this project the work is simple 
-you need to make applications or tools for penetration and send it to us 
-we will add it to our project system 
-oh and something else very cool!
-you can write you name on your application or tool you made and we will insert it without changes!
-all types of helpful application are acceptable but be careful!!!
-requirements:
--your tool or application needs to be a console application 
--your tool or application musn't be a .exe file or something. it must be a script file (and you can add your name as we told before)
-Thanks!!!
+this project is about to create a big system for every company needs so if you are intrerested then
+give a start and follow us in our blog site
+when this program is ready we will publish it directly
+the idea of this system is to have a lot of applications and tools to make the user working on it simple
+and it has no capability with any server or database
+and it can work with vpn and proxy server.
+and this program is very secure than any type of security systems or softwares
+if you liked the idea of the system then please give us a star and donate us some bitcoins if you have.
+-more informations in our website here--->www.boomrednetinc.blogspot.com<---
